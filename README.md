@@ -1,2 +1,2 @@
-# aishu
+# Django Project
 web development
